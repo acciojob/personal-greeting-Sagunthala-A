@@ -7,7 +7,7 @@ const App = () => {
   return (
     <div>
         {/* Do not remove the main div */}
-        {/*  */}
+        {/*comment  */}
         <p>Enter Your name</p>
         <input
           type="text"

@@ -10,7 +10,6 @@ const App = () => {
         <p>Enter Your name</p>
         <input
           type="text"
-          value={name}
           onChange={(e)=>{setName(e.target.value)}}
         />
         {

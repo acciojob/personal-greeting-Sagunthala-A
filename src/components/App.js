@@ -15,7 +15,7 @@ const App = () => {
           onChange={(e)=>{setName(e.target.value)}}
         />
         {
-          name&&
+          name &&
           (
             <p>Hello {name}!</p>
           )
